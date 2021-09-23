@@ -9,6 +9,7 @@ function frutas(fruta){
             break;
         case 'melancia':
             console.log('Aqui está, são 3 reais o quilo.');
+            break;
         default:
             console.log('Procure o administrador do sistema!');        
     }
